@@ -1,4 +1,4 @@
-<mxfile modified="2022-05-24T07:26:09.211Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="sygfLur1nn4yc3oPnRcd" version="18.1.1" type="github" pages="4">
+<mxfile modified="2022-05-24T07:36:07.365Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="E6h7bgLH4UZjiW_P9uZ9" version="18.1.1" type="github" pages="4">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Managed Services">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -442,6 +442,15 @@
         </mxCell>
         <mxCell id="qhMC2pUrDBR9TRcvGdto-27" value="/dir_p2" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder_open;" vertex="1" parent="1">
           <mxGeometry x="481" y="160" width="56" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="qhMC2pUrDBR9TRcvGdto-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="qhMC2pUrDBR9TRcvGdto-33" target="qhMC2pUrDBR9TRcvGdto-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qhMC2pUrDBR9TRcvGdto-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="qhMC2pUrDBR9TRcvGdto-33" target="qhMC2pUrDBR9TRcvGdto-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qhMC2pUrDBR9TRcvGdto-33" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="580" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
